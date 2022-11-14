@@ -32,7 +32,7 @@ A primeira coisa que deve ser feita é instalar o Docker Compose:
 ```
 apt install docker-compose
 ```
-Depois de instalado, deve-se gerar o arquivo:
+Depois de instalado, execute o compose em segundo plano:
 
 > ℹ️ **_INFO_**  
 > O comando `docker compose up -d` deve ser executado dentro do diretório do projeto, que deve possuir exclusivamente todos os arquivos do projeto.
