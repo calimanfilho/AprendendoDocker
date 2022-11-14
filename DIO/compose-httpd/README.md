@@ -1,5 +1,5 @@
 ## Aplicação Web em um Contêiner Apache HTTPD
-Neste projeto, que faz parte de uma série de aulas da [DIO](https://www.dio.me/), será utilizado o Docker Compose para executar uma aplicação HTML em um Container Apache.
+Neste projeto, que faz parte de uma série de aulas da [DIO](https://www.dio.me/), será utilizado o Docker Compose para executar uma aplicação HTML em um contêiner Apache.
 
 
 Estrutura do projeto:
