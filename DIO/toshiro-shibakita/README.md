@@ -1,0 +1,2 @@
+## Utilização Prática no Cenário de Microsserviços
+Neste projeto, que faz parte de uma série de aulas da [DIO](https://www.dio.me/), foi replicar o projeto prático utilizado na criação de microsserviços com Docker.
